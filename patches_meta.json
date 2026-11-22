@@ -1,0 +1,488 @@
+[
+  {
+    "uid": "72e543bfd7c9020d",
+    "filename": "MENU_DELTA_CRACK_FFM.3105",
+    "gameType": "ffmax",
+    "folder": "AIM - ESP",
+    "displayName": "MENU DELTA CRACK",
+    "tag": "FREE",
+    "note": ""
+  },
+  {
+    "uid": "b14842dfe7a97bd6",
+    "filename": "Aim_Bung_Anten_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Bung Anten Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "bb64332a1d1f16d6",
+    "filename": "Aim_Bung_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Bung Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "2633688178d77b6a",
+    "filename": "Aim_Drag_Anten_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Drag Anten Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "fa9772a672b373f7",
+    "filename": "Aim_Drag_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Drag Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "41f44a6483595608",
+    "filename": "Aim_Magic_Anten_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Magic Anten Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "3732cc9a0444eae7",
+    "filename": "Aim_Magic_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Magic Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "a9ea1a279988004f",
+    "filename": "Aim_Neck_Anten_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Neck Anten Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "8601c65e82c45091",
+    "filename": "Aim_Neck_Ffm.3105",
+    "gameType": "ffmax",
+    "folder": "DATA AIM",
+    "displayName": "Aim Neck Ffm",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "a12d0675ecf5e872",
+    "filename": "Cham_Do.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Cham Do",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "1cbaa2f742dc97fd",
+    "filename": "Cham_Hong.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Cham Hong",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "1e6a1c221bf2a78c",
+    "filename": "Cham_Xanh_Duong.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Cham Xanh Duong",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "4e810f8ffa0d6faf",
+    "filename": "Cham_Xanh_La.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Cham Xanh La",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "4d9429f0cd1410e6",
+    "filename": "Dv_7_M_u.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "DV 7 Mu",
+    "tag": "VIP",
+    "note": "Định vị nhân vật 7 màu nhấp nháy"
+  },
+  {
+    "uid": "2d4b496e9ab5ca47",
+    "filename": "Skin_7_M_u.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Skin 7 Mu",
+    "tag": "VIP",
+    "note": "Định vị Skin Súng 7 màu nhấp nháy"
+  },
+  {
+    "uid": "ce7ea8b5b3b2178d",
+    "filename": "Sung_Do.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Sung Do",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "03e0ba9f4d172b66",
+    "filename": "Sung_Hong.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Sung Hong",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "bff1343f8ed89224",
+    "filename": "Sung_Xanh_Duong.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Sung Xanh Duong",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "d7a2a08bea0c4c37",
+    "filename": "Sung_Xanh_La.3105",
+    "gameType": "ffmax",
+    "folder": "DINH VI",
+    "displayName": "Sung Xanh La",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "0c691282e0d2ddc7",
+    "filename": "Aim.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM - ESP",
+    "displayName": "Aim Head Norecoil",
+    "tag": "VIP",
+    "note": "Bật trước khi vào game"
+  },
+  {
+    "uid": "def773763110aac7",
+    "filename": "Antiban.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM - ESP",
+    "displayName": "Antiban",
+    "tag": "VIP",
+    "note": "Bật khi vào sảnh"
+  },
+  {
+    "uid": "8ae2c4aacd1d6170",
+    "filename": "Menu-2.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM - ESP",
+    "displayName": "Menu Delta Crack",
+    "tag": "VIP",
+    "note": "Bật trước khi vào game"
+  },
+  {
+    "uid": "cabed94c1583408c",
+    "filename": "Menu_Jerry.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM - ESP",
+    "displayName": "Menu Jerry Mod Crack",
+    "tag": "VIP",
+    "note": "Cài trước khi vào game"
+  },
+  {
+    "uid": "677b7c860d003d65",
+    "filename": "Antiban_Cache_Ffth.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM cache_res",
+    "displayName": "Antiban cache_res",
+    "tag": "VIP",
+    "note": "Vào trong trận rồi bật antiban"
+  },
+  {
+    "uid": "dbc5b17da1a8b140",
+    "filename": "Body.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM cache_res",
+    "displayName": "Aim Body",
+    "tag": "VIP",
+    "note": "Body 100% đỏ, cài trong sảnh"
+  },
+  {
+    "uid": "1fd5a005ff1a5612",
+    "filename": "Body_Neww.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM cache_res",
+    "displayName": "Aim Body ver2",
+    "tag": "VIP",
+    "note": "Vùng Headshot thu hẹp, log đúng mẹo"
+  },
+  {
+    "uid": "23c68e4d0f11836d",
+    "filename": "Magic.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM cache_res",
+    "displayName": "Magic",
+    "tag": "VIP",
+    "note": "Magic cài trong sảnh"
+  },
+  {
+    "uid": "96a8420372515464",
+    "filename": "Nh_T_m.3105",
+    "gameType": "ffnormal",
+    "folder": "AIM cache_res",
+    "displayName": "Nhe Tam",
+    "tag": "VIP",
+    "note": "Nhẹ tâm cài trong sảnh"
+  },
+  {
+    "uid": "3dbc3af61712e615",
+    "filename": "AIM_BUNG_ANTEN_FFTH.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM BUNG ANTEN FFTH",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "c48212a9b78f9af6",
+    "filename": "AIM_BUNG_FFTH.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM BUNG FFTH",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "541d12e9e27d1d97",
+    "filename": "AIM_DRAG_ANTEN_FFTH-2.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM DRAG ANTEN FFTH-2",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "0ba834df3783b084",
+    "filename": "AIM_DRAG_FFTH.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM DRAG FFTH",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "08bd6d9cdd6ba57c",
+    "filename": "AIM_LOCK_ANTEN_FFTH.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM LOCK ANTEN FFTH",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "e2b078852e34d24b",
+    "filename": "AIM_MAGIC_ANTEN_FFTH.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM MAGIC ANTEN FFTH",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "1c0678b4a44f4971",
+    "filename": "AIM_MAGIC_FFTH.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM MAGIC FFTH",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "5967af0d5ca6e91c",
+    "filename": "AIM_NECK_FFTH.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "AIM NECK FFTH",
+    "tag": "VIP",
+    "note": ""
+  },
+  {
+    "uid": "74554bf2185be56e",
+    "filename": "Aim_Drag_V2.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "Aim Drag Ver2",
+    "tag": "VIP",
+    "note": "Giúp bám đầu tốt hơn và ít lỗi dame"
+  },
+  {
+    "uid": "8f1fd7d12d5d26a1",
+    "filename": "Aimlock_Ver2.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "Aimlock Ver 2",
+    "tag": "VIP",
+    "note": "Kéo nhẹ là đỏ, Headshot quanh đầu"
+  },
+  {
+    "uid": "0fbef13f69cda93a",
+    "filename": "Anti.3105",
+    "gameType": "ffnormal",
+    "folder": "DATA AIM",
+    "displayName": "Antiban new",
+    "tag": "VIP",
+    "note": "Bật khi dùng trong trận"
+  },
+  {
+    "uid": "6ae49ee01e90f9e4",
+    "filename": "Dv_7_M_u_Ffth.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "DV 7 Mu",
+    "tag": "VIP",
+    "note": "Định vị nhân vật 7 màu nhấp nháy"
+  },
+  {
+    "uid": "e12d9bb03b4c9aeb",
+    "filename": "Skin_7_M_u_Ffth.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "Skin Sng 7 Mu",
+    "tag": "VIP",
+    "note": "Định vị Skin Súng 7 màu nhấp nháy"
+  },
+  {
+    "uid": "1b8c0b58bfd991a5",
+    "filename": "Skin_Su_ng_Tra_ng_-_o_.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "SKIN SUNG TRANG DO",
+    "tag": "VIP",
+    "note": "TẢI FULL SKIN VŨ KHÍ TRỨC KHI BẬT"
+  },
+  {
+    "uid": "0fedb50fb56ff962",
+    "filename": "Skin_Su_ng_Xanh_-_Va_ng.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "SKIN SUNG XANH VANG",
+    "tag": "VIP",
+    "note": "TẢI FULL SKIN VŨ KHÍ TRỨC KHI BẬT"
+  },
+  {
+    "uid": "988d14685b74cb8c",
+    "filename": "Skin_Su_ng_Xanh_-_o_.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "SKIN SUNG XANH DO",
+    "tag": "VIP",
+    "note": "TẢI FULL SKIN VŨ KHÍ TRỨC KHI BẬT"
+  },
+  {
+    "uid": "24513d01a4e85ed5",
+    "filename": "Skin_Su_ng_en_-_Va_ng.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "SKIN SUNG DEN VANG",
+    "tag": "VIP",
+    "note": "TẢI FULL SKIN VŨ KHÍ TRỨC KHI BẬT"
+  },
+  {
+    "uid": "4285856d23342c10",
+    "filename": "Ti_m_Ho_ng.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "NHAN VAT TIM",
+    "tag": "VIP",
+    "note": "TẢI FULL NHÂN VẬT TRỨC KHI BẬT"
+  },
+  {
+    "uid": "89dae6a6040e4a01",
+    "filename": "Tra_ng.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "NHAN VAT TRANG",
+    "tag": "VIP",
+    "note": "TẢI FULL NHÂN VẬTÍ TRỨC KHI BẬT"
+  },
+  {
+    "uid": "d0cc3d7ab23757d5",
+    "filename": "Va_ng_a_m.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "NHAN VAT VANG",
+    "tag": "VIP",
+    "note": "TẢI FULL NHÂN VẬTÍ TRỨC KHI BẬT"
+  },
+  {
+    "uid": "b6f2e15188953954",
+    "filename": "Xanh_Du_o_ng.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "NHAN VAT XANH DUONG",
+    "tag": "VIP",
+    "note": "TẢI FULL NHÂN VẬT TRỨC KHI BẬT"
+  },
+  {
+    "uid": "497447f9b62f7ef8",
+    "filename": "o_a_m.3105",
+    "gameType": "ffnormal",
+    "folder": "DINH VI",
+    "displayName": "NHAN VAT DO",
+    "tag": "VIP",
+    "note": "TẢI FULL NHÂN VẬT TRỨC KHI BẬT"
+  },
+  {
+    "uid": "e2739e2b88a99ea7",
+    "filename": "Mod_Alock_V1.3105",
+    "gameType": "ffnormal",
+    "folder": "MOD NHAN VAT",
+    "displayName": "MOD ALOK V1",
+    "tag": "VIP",
+    "note": "MOD V1 TRÊN ALOK THỨC TỈNH"
+  },
+  {
+    "uid": "2255d9b4a685ff58",
+    "filename": "Mod_Alok_V2.3105",
+    "gameType": "ffnormal",
+    "folder": "MOD NHAN VAT",
+    "displayName": "MOD ALOK V2",
+    "tag": "FREE",
+    "note": "MOD V2 TRÊN ALOK THỨC TỈNH"
+  },
+  {
+    "uid": "4c637949e7a6e457",
+    "filename": "Mod_Ignis_V3.3105",
+    "gameType": "ffnormal",
+    "folder": "MOD NHAN VAT",
+    "displayName": "MOD IGNIS V3",
+    "tag": "VIP",
+    "note": "MOD V3 TRÊN IGNIS"
+  },
+  {
+    "uid": "a10987c1346d8156",
+    "filename": "Mod_Keo_Logo.3105",
+    "gameType": "ffnormal",
+    "folder": "Mod keo",
+    "displayName": "Mod logo ipa",
+    "tag": "VIP",
+    "note": "Mod trên keo Đấng Sáng Thê"
+  }
+]
